@@ -1,0 +1,25 @@
+{
+  "name": "spikes-scanner-zk",
+  "version": "1.0.0",
+  "description": "BCAMS ZKTeco Biometric Scanner & Matching Engine Isolated Spike",
+  "private": true,
+  "main": "dist/harness.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/harness.js",
+    "test:worker": "tsc && node dist/worker-test.js"
+  },
+  "keywords": [
+    "biometrics",
+    "zkteco",
+    "fingerprint",
+    "spike",
+    "bcams"
+  ],
+  "author": "BCAMS Engineering Programme",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.5"
+  }
+}
