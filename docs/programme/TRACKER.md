@@ -29,7 +29,7 @@ Not started · In progress · Blocked (reason recorded) · Done (acceptance pass
 | C0.1 | Backend salvage assessment and as-built discovery | Discovery | C0.0 | Keep, refactor or replace verdict per module reviewed | Done |
 | C0.2 | Desktop targeted follow-up discovery | Discovery | C0.0 | Every question answered with evidence | Done |
 | C0.3 | Contract reconciliation and rule extraction | Discovery | C0.1, C0.2 | Rules catalog reviewed | Done |
-| C0.4 | Threat model and security requirements | Discovery | C0.1, C0.2 | SR list approved | Not started |
+| C0.4 | Threat model and security requirements | Discovery | C0.1, C0.2 | SR list approved | Done |
 | C0.5 | Scanner spike | Spike | C0.0 | Measured results recorded by a human | Not started |
 | C0.6 | Decision closure and plan adjustment | Review | C0.1 to C0.5 | O1 to O10 resolved, PLAN_ADJUSTMENTS approved | Not started |
 | C1.0 | Backend foundation, data model and protocol drafts | Build (backend) | C0.6 | Fresh clone runs, migrates and passes tests. Protocol drafts reviewed | Not started |
