@@ -26,7 +26,7 @@ Not started · In progress · Blocked (reason recorded) · Done (acceptance pass
 | ID | Chunk | Type | Depends on | Exit gate | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | C0.0 | Bootstrap programme folder | Setup | none | Folder and four files exist | Done |
-| C0.1 | Backend salvage assessment and as-built discovery | Discovery | C0.0 | Keep, refactor or replace verdict per module reviewed | Not started |
+| C0.1 | Backend salvage assessment and as-built discovery | Discovery | C0.0 | Keep, refactor or replace verdict per module reviewed | Done |
 | C0.2 | Desktop targeted follow-up discovery | Discovery | C0.0 | Every question answered with evidence | Not started |
 | C0.3 | Contract reconciliation and rule extraction | Discovery | C0.1, C0.2 | Rules catalog reviewed | Not started |
 | C0.4 | Threat model and security requirements | Discovery | C0.1, C0.2 | SR list approved | Not started |
